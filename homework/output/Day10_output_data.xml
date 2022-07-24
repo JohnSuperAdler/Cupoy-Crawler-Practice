@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<store name="bookstore">
+  <book id="hio" lang="en">
+    <bookinfo>
+      <title>HIO Reference Manual</title>
+      <releaseinfo publish_date="1999-02-12">The latest version of this documentation can't be found online</releaseinfo>
+    </bookinfo>
+  </book>
+</store>
